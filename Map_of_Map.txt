@@ -1,0 +1,18 @@
+Map Symbols the Movie
+
+# --- Wall
+. --- Floor
+~ --- Water
+@ --- That's you!
+& --- Goblin
+% --- Dragon
+X --- 
+@ --- World 0 Trigger 
+! --- World 1 Trigger [Map]
+$ --- World 2 Trigger
+* --- World 3 Trigger
+0 --- World 4 Trigger
+W --- World 5 Trigger
+M --- World 6 Trigger
+1 --- Trigger Inventory Interaction
+2 --- Trigger Map Interaction
